@@ -4,11 +4,11 @@
   - [About](#about)
   - [Features](#features)
   - [Contributors](#contributors)
-  - [Full assignment](#assingment)
+  - [Full assignment](#assignment)
 
 ## About   
 
-This project is a web-based dashboard designed to visualize data provided by museum cash registers. It was developed as an exercise for the Software Engineering Project course at Vaasa University of Applied Sciences. You can read the full assingment and criteria [below](#assingment).
+This project is a web-based dashboard designed to visualize data provided by museum cash registers. It was developed as an exercise for the Software Engineering Project course at Vaasa University of Applied Sciences. You can read the full assignment and criteria [below](#assignment).
 
 With this exercise we practised:
 - Project work and agile methods
