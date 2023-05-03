@@ -1,0 +1,62 @@
+mid2, NormTicket 12, 02042022 09:31, eid1, cid412234, debit
+mid3, DiscTicket 10, 02042022 12:43, eid4,, cash
+mid3, ChilTicket 06, 02042022 15:42, eid7,, debit
+mid2, NormTicket 12, 12062022 15:35, eid5, cid412234, cash
+mid1, NormTicket 12, 22022022 12:36, eid3, cid523611, debit
+mid1, DiscTicket 10, 02072022 14:27, eid7,, cash
+mid2, NormTicket 12, 02092022 09:58, eid2,, cash
+mid2, DiscTicket 10, 02052022 11:48, eid3, cid512134, debit
+mid4, NormTicket 12, 09022022 13:39, eid4,, debit
+mid4, NormTicket 12, 14012022 16:59, eid1, cid112334, debit
+mid2, NormTicket 12, 12122022 17:14, eid4,, debit
+mid3, DiscTicket 10, 30082022 17:02, eid7,, debit
+mid2, NormTicket 12, 29092022 17:06, eid5, cid423611, debit
+mid3, NormTicket 12, 17062022 14:17, eid4, cid412234, cash
+mid2, DiscTicket 10, 18122022 18:03, eid3, cid712356, cash
+mid3, DiscTicket 10, 13112022 18:27, eid2, cid403611, debit
+mid2, NormTicket 12, 11102022 14:33, eid7, cid412834, debit
+mid1, ChilTicket 06, 12102022 10:27, eid2,, debit
+mid1, NormTicket 12, 29092022 09:32, eid4, cid417234, debit
+mid4, ChilTicket 06, 30012022 15:42, eid7,, debit
+mid4, NormTicket 12, 24012022 15:54, eid5, cid416234, debit
+mid1, ChilTicket 06, 20012022 16:51, eid6,, debit
+mid1, ChilTicket 06, 17102022 17:25, eid6, cid126367, debit
+mid1, NormTicket 12, 18032022 15:27, eid6,, debit
+mid4, NormTicket 12, 04032022 14:18, eid5, cid312234, debit
+mid2, NormTicket 12, 29092022 17:06, eid5, cid423611, debit
+mid3, NormTicket 12, 17062022 14:17, eid4, cid412234, cash
+mid2, DiscTicket 10, 18122022 18:03, eid3, cid712356, cash
+mid3, DiscTicket 10, 13112022 18:27, eid2, cid403611, debit
+mid2, NormTicket 12, 11102022 14:33, eid7, cid412834, debit
+mid1, ChilTicket 06, 12102022 10:27, eid2,, debit
+mid1, NormTicket 12, 29092022 09:32, eid4, cid417234, debit
+mid4, ChilTicket 06, 30012022 15:42, eid7,, debit
+mid4, NormTicket 12, 24012022 15:54, eid5, cid416234, debit
+mid1, ChilTicket 06, 20012022 16:51, eid6,, debit
+mid1, ChilTicket 06, 17102022 17:25, eid6, cid126367, debit
+mid1, NormTicket 12, 18032022 15:27, eid6,, debit
+mid2, NormTicket 12, 11102022 14:33, eid7, cid412834, debit
+mid1, ChilTicket 06, 12102022 10:27, eid2,, debit
+mid1, NormTicket 12, 29092022 09:32, eid4, cid417234, debit
+mid4, ChilTicket 06, 30012022 15:42, eid7,, debit
+mid4, NormTicket 12, 24012022 15:54, eid5, cid416234, debit
+mid1, ChilTicket 06, 20012022 16:51, eid6,, debit
+mid1, ChilTicket 06, 17102022 17:25, eid6, cid126367, debit
+mid1, NormTicket 12, 18032022 15:27, eid6,, debit
+mid4, NormTicket 12, 04032022 14:18, eid5, cid312234, debit
+mid2, NormTicket 12, 29092022 17:06, eid5, cid423611, debit
+mid3, ChilTicket 06, 02042022 15:42, eid7,, debit
+mid2, NormTicket 12, 12062022 15:35, eid5, cid412234, cash
+mid1, NormTicket 12, 22022022 12:36, eid3, cid523611, debit
+mid3, ChilTicket 06, 02042022 15:42, eid7,, debit
+mid2, NormTicket 12, 12062022 15:35, eid5, cid412234, cash
+mid1, NormTicket 12, 22022022 12:36, eid3, cid523611, debit
+mid3, ChilTicket 06, 02042022 15:42, eid7,, debit
+mid2, NormTicket 12, 12062022 15:35, eid5, cid412234, cash
+mid1, NormTicket 12, 22022022 12:36, eid3, cid523611, debit
+mid2, NormTicket 12, 29092022 17:06, eid5, cid423611, debit
+mid3, NormTicket 12, 17062022 14:17, eid4, cid412234, cash
+mid2, DiscTicket 10, 18122022 18:03, eid3, cid712356, cash
+mid3, DiscTicket 10, 13112022 18:27, eid2, cid403611, debit
+mid2, NormTicket 12, 11102022 14:33, eid7, cid412834, debit
+mid1, ChilTicket 06, 12102022 10:27, eid2,, debit
