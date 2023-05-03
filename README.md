@@ -37,7 +37,7 @@ The museum dashboard offers the following features:
   - Monthly listing of tickets sold by different employees (eid).
 - Dashboard filtering with date and museum ID:s.
 
-## Contributors
+## Contributors 
 
 This project was a group assignment, and the contributors are [Iina Soikkeli](https://github.com/Iinaus/), [Joona Hokkanen](https://github.com/joonavonh) and Janina K.
 
